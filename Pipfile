@@ -14,6 +14,8 @@ pandas = "*"
 hmmlearn = "*"
 pystruct = "*"
 cvxopt = "*"
+flask = "*"
+kivy = "*"
 
 [requires]
 python_version = "3.7"
